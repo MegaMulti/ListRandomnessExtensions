@@ -1,0 +1,12 @@
+{
+  "name": "com.megamulti.listrandomnessextensions",
+  "version": "1.0.0",
+  "displayName": "List Randomness Extensions",
+  "description": "Random Methos Extensions for List<T>",
+  "unity": "2021.3",
+  "author": {
+    "name": "MegaMutli",
+    "email": "sviatoslav.vas@gmail.com",
+    "url": "https://github.com/MegaMulti"
+  }
+}
